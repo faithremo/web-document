@@ -1,0 +1,18 @@
+*{background-color: lightgreen;
+ 
+}
+body{
+    text-align: center;
+}
+
+h1{
+    margin-left: 40px;
+    color: brown;
+}
+h3{
+    font-style: italic;
+}
+
+ul{
+    list-style:inside;
+}
