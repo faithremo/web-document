@@ -1,6 +1,7 @@
-*{background-color: lightgreen;
- 
+*{
+    background-color: rgb(204, 216, 204);
 }
+
 body{
     text-align: center;
 }
@@ -15,4 +16,14 @@ h3{
 
 ul{
     list-style:inside;
+}
+.system>img{
+    padding: 10px;
+}
+
+.frSystem>p{
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 30px;
+    flex-wrap: wrap;
 }
