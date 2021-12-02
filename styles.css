@@ -27,3 +27,46 @@ ul{
     padding-top: 30px;
     flex-wrap: wrap;
 }
+
+.header{
+    background-color: darkolivegreen;
+}
+
+.header>ul{
+    font-weight: bolder;
+    display: flex;
+    display: inline-flex;
+    list-style-type: none;
+    background-color: darkolivegreen;
+}
+
+.header>ul>li{
+    background-color: darkolivegreen;
+    float: left;
+    padding: 14px 80px;
+    text-align: center;
+    
+}
+
+.header>ul>li a{
+    text-decoration: none;
+    background-color: darkolivegreen;
+    color: white;
+}
+
+.header>ul>li a:hover{
+    background-color: white;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+    
